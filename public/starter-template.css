@@ -18,3 +18,21 @@ tr{
   font-size: 15px;
   font-weight: bold;
 }
+.navbar{
+background-color: rgb(92, 92, 28);
+font-style: oblique;
+}
+.img-link{
+  width: 50px;
+}
+.img-link2{
+  width: 100px;
+}
+.img-link3{
+  width: 55px;
+}
+.text-nome{
+  font-weight: bold;
+  text-align: center;
+  color: #3f0f0f;
+}
